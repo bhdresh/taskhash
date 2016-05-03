@@ -6,11 +6,11 @@ This tool is developed to assist forensic investigators and auditors to remotely
 
 1) To collect the md5sum of the processes remotely
 
-    Command: taskhash.exe -t <Target IP> -u <username> -p <password>
+    Command: C:\taskhash>taskhash.exe -t <Target IP> -u <username> -p <password>
 
 2) To collect the md5sum of the processes locally
 
-    Command: taskhashlocal.exe
+    Command: C:\taskhash>taskhashlocal.exe
 
 
 Output:
