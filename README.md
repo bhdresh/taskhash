@@ -1,4 +1,4 @@
-# taskhash v1
+# taskhash v1.0
 
 This tool is developed to assist forensic investigators and auditors to remotely collect the md5sum of running processes on the target windows machine.
 
