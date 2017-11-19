@@ -43,3 +43,13 @@ Output:
     C:\WINDOWS\System32\logon.scr --- 0x9FAD7DFF67555FF1E06BC4A3893024A7
     C:\WINDOWS\PSEXESVC.EXE --- 0xA283E768FA12EF33087F07B01F82D6DD
     C:\WINDOWS\system32\taskhashlocal.exe --- 0xA1C088D5E65953CCC6B68D9EE23A36C4
+    
+# Disclaimer
+
+This program is for Educational purpose ONLY. Do not use it without permission. The usual disclaimer applies, especially the fact that me (bhdresh) is not liable for any damages caused by direct or indirect use of the information or functionality provided by these programs. The author or any Internet provider bears NO responsibility for content or misuse of these programs or any derivatives thereof. By using this program you accept the fact that any damage (dataloss, system crash, system compromise, etc.) caused by the use of these programs is not bhdresh's responsibility.
+
+Finally, this is a personal development, please respect its philosophy and don't use it for bad things!
+
+# Licence
+
+CC BY 4.0 licence - https://creativecommons.org/licenses/by/4.0/
